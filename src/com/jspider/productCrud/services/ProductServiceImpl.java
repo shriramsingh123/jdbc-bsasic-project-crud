@@ -66,7 +66,4 @@ public class ProductServiceImpl implements ProductService{
 
 }
 
-// Q. which properties can be inherited
-// We can inherit methods and veriable
-// Q which properties we cannot inherit
-// constructor and initializer
+
